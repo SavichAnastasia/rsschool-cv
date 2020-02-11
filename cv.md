@@ -1,6 +1,7 @@
 # Savich Anastasia
 *Mobile: +375293231343; e-mil: anastasia.savich.s@gmail.com*
 
+![foto](/IMG_6758.JPG)
 
 ### Summary
 I graduated from Belarusian State University, Faculty of Economics in 2014. Then I worked as an estimate engineer for 5 years. 
