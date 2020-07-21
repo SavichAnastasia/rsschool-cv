@@ -28,7 +28,7 @@ Now I have plans to improve knowledge in front-end development and get a job in 
 1. [Memory-game(React, redux)](https://savichanastasia.github.io/match-match-game/#/)
 1. [MOGO(HTML, CSS)](https://savichanastasia.github.io/MOGO/)
 1. [TodoList(jQuery, Bootstrap)](http://rollingscopes.com/)
-1. [Fancy weather (React)] (https://savichanastasia-fancy-weather.netlify.app/)
+1. [Fancy weather (React)](https://savichanastasia-fancy-weather.netlify.app/)
 1. [Presentation "React"](https://www.youtube.com/watch?v=EI15vLYNeJI)
 
 
