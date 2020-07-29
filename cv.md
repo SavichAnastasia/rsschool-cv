@@ -5,7 +5,7 @@
 
 ### Summary
 I graduated from Belarusian State University, Faculty of Economics in 2014. Then I worked as an estimate engineer for 5 years. 
-I became interested in programming on maternity leave 2 years ago. And I really liked it, so I successfully completed the course "Frontend developer" in 2019.
+I became interested in programming 2 years ago. And I really liked it, so I successfully completed the course "Frontend developer" in 2019.
 Now I have plans to improve knowledge in front-end development and get a job in a dynamic growing company in which I can develop further.
 
 
@@ -30,6 +30,8 @@ Now I have plans to improve knowledge in front-end development and get a job in 
 1. [SINGOLO(HTML, CSS)](https://savichanastasia.github.io/singolo/)
 1. [TodoList(jQuery, Bootstrap)](http://rollingscopes.com/)
 1. [Fancy weather (React)](https://savichanastasia-fancy-weather.netlify.app/)
+1. [English-for-kids(js)](https://savichanastasia-english-for-kids.netlify.app/)
+1. [English-puzzle(React)](https://savichanastasia-english-puzzle-paintings.netlify.app/)
 1. [Presentation "React"](https://www.youtube.com/watch?v=EI15vLYNeJI)
 
 
